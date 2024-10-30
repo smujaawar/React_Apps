@@ -1,0 +1,46 @@
+
+.div1{
+  /* border: 2px solid black; */
+  background-color: bisque;
+  padding: 20px;
+}
+.sec1{
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.sec2{
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.b1{
+  padding: 10px 20px;
+  background-color: rgb(57, 134, 212);
+border: none;
+color: white;
+border-radius: 50px;
+font-size: 15px;
+}
+
+/* .b1:active{
+  font-size: 13px;
+} */
+
+
+/* ***********************************Timerapp CSS*****************************************************/
+
+.div2{
+  margin-top: 50px;
+  padding: 20px 80px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-self: center;
+  border: 2px solid black;
+  border-radius: 30%;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
